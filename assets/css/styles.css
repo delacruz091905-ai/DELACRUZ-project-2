@@ -67,6 +67,7 @@
 .event-card{display:grid;grid-template-columns:110px 1fr;gap:24px;padding:28px;border:1px solid var(--line);border-radius:8px;background:var(--white)}
 .event-date{display:grid;place-items:center;width:110px;height:110px;border-radius:8px;background:var(--navy);color:var(--white);text-align:center}.event-date strong{display:block;font-size:34px;line-height:.9}.event-date span{font-size:12px;text-transform:uppercase}
 .event-card h2{margin:4px 0 10px;font-family:"Manrope",sans-serif}.event-card p{color:var(--muted);line-height:1.7}
+.events-list{display:grid;gap:20px}.event-date span{display:block;margin-top:8px;font-size:10px;letter-spacing:.7px}.event-card{align-items:center}.event-card p{margin-bottom:0}
 .course-detail{display:grid;grid-template-columns:1.5fr 1fr;gap:50px}.course-detail h2{font-family:"Manrope",sans-serif;font-size:42px;color:var(--navy)}
 .course-detail p,.course-info p{color:var(--muted);line-height:1.8}.course-info{padding:30px;border-radius:8px;background:#f5f7fa}
 .faculty-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}.faculty-card{text-align:center;padding:30px;border:1px solid var(--line);border-radius:8px;background:var(--white)}
